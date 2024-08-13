@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-13T12:32:35 EDT" name="Default suite" finished-at="2024-08-13T12:32:43 EDT" duration-ms="8033">
+    <groups>
+    </groups>
+    <test started-at="2024-08-13T12:32:35 EDT" name="Default test" finished-at="2024-08-13T12:32:43 EDT" duration-ms="8033">
+      <class name="testNG.Assignment_New">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testNG.Assignment_New@4dbb42b7]" started-at="2024-08-13T12:32:35 EDT" name="setup" finished-at="2024-08-13T12:32:40 EDT" duration-ms="4752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="serachCourse()[pri:0, instance:testNG.Assignment_New@4dbb42b7]" started-at="2024-08-13T12:32:40 EDT" name="serachCourse" finished-at="2024-08-13T12:32:41 EDT" duration-ms="1179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- serachCourse -->
+        <test-method signature="verifyLogin()[pri:0, instance:testNG.Assignment_New@4dbb42b7]" started-at="2024-08-13T12:32:41 EDT" name="verifyLogin" finished-at="2024-08-13T12:32:43 EDT" duration-ms="2040" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+      </class> <!-- testNG.Assignment_New -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
